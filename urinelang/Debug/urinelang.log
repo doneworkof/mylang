@@ -1,0 +1,14 @@
+﻿  urinelang.cpp
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(118,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(169,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(176,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(199,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(223,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(229,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(270,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(281,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(338,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(353,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(367,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\urinelang\urinelang\urinelang.cpp(400,49): warning C4305: аргумент: усечение из "double" в "float"
+  urinelang.vcxproj -> C:\Users\Илья\source\repos\urinelang\Debug\urinelang.exe
